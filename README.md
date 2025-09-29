@@ -1,1 +1,1 @@
-This Repo is for documenting all of the work I am doing for Cybersecurity, including work ive done for school, and work ive done on my own time
+This Repo is for documenting all of the work I am doing for Cybersecurity, including work i've done for school, and work i've done on my own time.
